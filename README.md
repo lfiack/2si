@@ -146,5 +146,42 @@ http://thingiverse.com/
 Activité algorithmique avec le logiciel Rooby et les platines d'expérimentation
 
 ##Lundi 11/12/17
+Suite et fin de l'activité algorithmique.
 
 
+Expérimentations en simulation, puis sur la platine et sur le robot ; 
+Vous rédigerez un rapport.
+* Faire tourner les moteurs : 
+	* Expérimentations sur la platine
+	* Faire avancer le robot tout droit.
+* Comportement scripté : 
+	* Faire avancer le robot tout droit quelques secondes, 
+	* Faire demi-tour, 
+	* Avancer tout droit, 
+	* Faire demi-tour -> Mesurer l'écart.
+* Détection obstacle : 
+	* Avancer tout droit jusqu'à rencontrer un obstacle, 
+	* Faire +/- demi-tour, 
+	* Reboucler 
+* Détection ligne :
+	* Comment utiliser le détecteur
+	* Proposer un algorithme de suivi de ligne
+
+
+Capteur ligne 2 gauche 600
+Capteur ligne 1 droite 650
+
+moteur 2 gauche
+moteur 1 droite
+
+Switch 3
+
+##Lundi 18/12/17
+10h30->11h30 suite des expérimentations de la semaine dernière.
+11h30 :
+* Rappel du challenge
+* Équipes de 2/3 ou 4
+* Tâches à réaliser :
+	* Design mécanique
+	* Électronique ?
+	* Programme
