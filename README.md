@@ -271,3 +271,30 @@ Résultats doivent apparaitre ? Y a-t-il des modifications ?
 
 Groupe 3
 Présentation "top-down"
+
+##05/02/2018
+Organisation Projet : 
+Dépendance Matière/Énergie/Information
+
+Lister les élements du robot et indique à quelle chaîne ils appartiennent (Énergie/Information ou Matière) : 15 minutes
+
+Restitution en groue : Liste éléments du robot:
+* Châssis : Matière -> Libre
+* Bloc moteur (moteur + réducteur + structure) : Énergie/Matière -> Imposé
+* Carte moteur : Énergie/Information/Matière -> Imposé/Recherches
+* Capteur de détection de ligne : Énergie/Matière/Information -> Imposé/Recherches
+* Capteur d'évitement d'obstacles : Énergie/Matière/Information -> Imposé/Recherces
+* Batterie : Matière/Énergie (Information) -> Imposé
+* Programme : Information
+* Lance-balle
+	* Structure mécanique : Matière/Énergie
+	* MCC ?
+	* Servo-moteur ?
+	* Ressorts
+
+Recherches sur Carte-moteur / Capteurs:
+Fournir un compte-rendu sur les dépendances et sur les recherches :
+* Cahier des charges
+* Technologies disponibles
+* Solution retenue (pourquoi?)
+* Dimensions/Consommation,alimentation/nature des données
