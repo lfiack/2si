@@ -185,3 +185,89 @@ Switch 3
 	* Design mécanique
 	* Électronique ?
 	* Programme
+
+##Lundi 08/01/18
+Bonjour,bonne année,tout ça...
+
+Conseil pratique: faille matérielle sur proc Intel : mettez à jour vos ordis (meltdown et spectre)
+
+Rappel de l'année :
+* Brainstorming
+* Dessin technique papier
+* Chaîne d'énergie -> Compte rendu
+	* Objectif
+	* Protocole expérimental
+	* Résultats
+	* Conclusion
+* Dessin 3D Solidworks
+* Algorithmique
+
+Travail aujourd'hui:
+* Finaliser les comptes-rendus
+* Préparer une présentation orale avec slides (diaporama ou planches en français) = powerpoint
+	* Introduction / Mise en contexte
+	* Objectifs -> Détailler puis synthétiser
+	* Manipulation / Programme / Protocole + Résultats + Conclusion partielle (pour chaque manip)
+	* Conclusion
+* Quelques règles pour la présentation:
+	* Présentez-vous, ainsi que la présentation 
+		(bonjour, je suis machin, en 2nd9 du Lycée Blaise Pascal de Rouen et je vais vous présenter quelquechose avec mes collègues truc et bidule)
+	* Présenter le plan
+	* Travailler les transitions (après avoir vu ci, on va parler de ça ; machin a présenté ci, je vais maintenant parler de ça)
+	* Fiche "anti-sèche" : quelques mots clés
+	* Essayez d'improviser, mais apprenez la première minute par coeur
+	* Faites des répétitions
+* Quelques règles pour les slides:
+	* Les slides doivent être un support de la présentation orale, pas un copier/coller du compte-rendu
+	* Pas de phrases, privilégier quelques points clés
+	* Peu de texte, plutôt des images, schémas, plans...
+
+Deux possibilités à discuter avec JRU : Finir le capteur de détection de ligne ~~~ou commencer le projet~~~
+
+###Projet:
+* Définir les groupes
+	* 13 élèves, 4 groupes : 3 groupes de 3, un groupe de 4
+	* Définition des rôles au sein du groupe : Matière (méca), énergie (élec), information (programme)
+* Présentation du sujet -> distribution des sujets papiers ou ENT ? Y a-t-il des modifications ?
+* Réflexions dépendances MEI
+* Organisation temporelle du projet -> Diagramme de gantt ?
+
+Adresse réglement challenge : http://perso-etis.ensea.fr/fiack/challenge_robotique.pdf
+
+##29/01/2018
+Présetations orales de l'activité algorithmique.
+* Les élèves suivent *chaque* présentation
+* Pour chaque présentation: ce que les intervenants on pensé de leur présentation + phase de questions/remarques -> noter au tableau
+* Synthèse
+
+Points à surveiller:
+* Présentation (intervenants, contexte, activité)
+* Annonce du plan
+* Respect du plan (Intro/Contexte ; Objectifs ; Programme+Protocole+Résultats+Conclusion partielle ; Conclusion)
+* Transitions
+* Lecture de la fiche
+* Lisibilité du support (points clés ; Images/Schémas/Plans)
+
+Si on finit en avance:
+* Définir les groupes
+	* 13 élèves, 4 groupes : 3 groupes de 3, un groupe de 4
+	* Définition des rôles au sein du groupe : Matière (méca), énergie (élec), information (programme)
+* Présentation du sujet (ENT)
+* Réflexions dépendances MEI
+* Organisation temporelle du projet -> Diagramme de gantt ?
+
+Groupe 1
+Slide titre
+platine?
+donc voila
+moteur s'épuisait
+
+Groupe 2
+Bonjour + Présentation
+Panier, obstacle
+roues motrices différentes
+Objectifs : Pourquoi ?
+Résultats doivent apparaitre ? Y a-t-il des modifications ?
+
+Groupe 3
+Présentation "top-down"
